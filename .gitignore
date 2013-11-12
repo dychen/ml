@@ -1,0 +1,6 @@
+*.pdf
+*.swp
+*.mat
+*.txt
+submit.m
+submitWeb.m
